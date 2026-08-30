@@ -1,0 +1,8 @@
+{
+  "name": "Remix zhengziqi个人网站",
+  "description": "极简风格的3D与AI设计作品集",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
