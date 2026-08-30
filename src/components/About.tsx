@@ -60,7 +60,7 @@ export function About() {
                 </div>
                 <p className="text-xs font-bold text-[#1e293b] mb-3 opacity-80">AI产品经理实习生</p>
                 <div className="text-xs opacity-80 space-y-2 leading-relaxed">
-                  <p><span className="font-bold">项目1 :</span> AI“POL”视频创作工具：对标LibTV，公司内部探索项目，创作AI视频、漫剧、短剧制作工具</p>
+                  <p><span className="font-bold">项目1 :</span> AI“PolTV”视频创作工具：对标LibTV，公司内部探索项目，创作AI视频、漫剧、短剧制作工具</p>
                   <p><span className="font-bold">项目2 :</span> AI“我的人生游戏加载界面”创意：捕捉小红书热门高赞传播AI主题，迅速研发我的游戏加载界面功能</p>
                   <p><span className="font-bold">项目3 :</span> AI“一键换装”功能：公司主要AIGC生图项目，站内常驻场景，支持一键换装影视角色公众人物IP</p>
                 </div>
